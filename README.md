@@ -1,2 +1,2 @@
 # Spending_Tracker_App
-You can track your expenses using this app on daily and monthly basis.
+Spending Tracker is a simple and efficient desktop application developed using Java and built on NetBeans IDE. It helps users track their income and expenses, categorize spending, and maintain control over their personal finances. Designed for ease of use, the application offers essential features like adding transactions, viewing reports, and managing categories to support smart budgeting.
